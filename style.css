@@ -1,0 +1,27 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: darkred;
+}
+
+.frame1 {
+    margin: auto;
+    width: 75%;
+    background-color: white;
+}
+
+.frame2 {
+    margin:auto;
+    width: 50%;
+    height: 50%;
+    
+}
+
+h1, h2 {
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 2px 2px lightcoral;
+}
+
+img {
+    width: 100%;
+}
